@@ -1,0 +1,31 @@
+ 🤖 AI ChatBot using Java
+
+📌 Project Overview
+
+This project is a Java-based AI ChatBot developed using Java Swing as part of the CodeAlpha Java Development Internship.
+
+ 🚀 Features
+
+* Java Swing GUI
+* Rule-based chatbot
+* Interactive conversation
+* FAQ responses
+* User-friendly interface
+
+🛠 Technologies Used
+
+* Java
+* Java Swing
+* AWT
+* Event Handling
+* Object-Oriented Programming (OOP)
+
+ ▶️ How to Run
+
+1. Open the project in Eclipse.
+2. Run `ChatBotGUI.java`.
+3. Start chatting with the bot.
+
+👩‍💻 Author
+
+Developed by P.Safiya for the CodeAlpha Java Development Internship.
